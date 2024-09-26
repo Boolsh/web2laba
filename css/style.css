@@ -1,0 +1,19 @@
+
+.big_block {
+  display: flex;
+
+}
+
+#main_header {
+  text-align: center;
+
+}
+
+img {
+  margin-right: 10mm;
+}
+
+body {
+  /*background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/hd/377f6767303791.5b34c5e9e1eb9.png");*/
+  background-size: 150mm;
+}
