@@ -14,6 +14,34 @@ img {
 }
 
 body {
-  /*background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/hd/377f6767303791.5b34c5e9e1eb9.png");*/
-  background-size: 150mm;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/006/413/040/original/blue-gradient-pastle-soft-beautiful-abstract-background-you-can-use-this-background-for-your-content-like-as-technology-video-gaming-promotion-card-banner-sports-presentation-website-etc-vector.jpg");
+  /*background-size: 150mm;*/
+
 }
+.video {
+  margin-left: 20pt;
+  margin-top: 20pt;
+  margin-right: 50pt;
+
+
+}
+
+
+
+
+/*.section-title {*/
+/*  font-size: 29px;*/
+/*  font-weight: bold;*/
+/*  margin: 20px 0;*/
+/*  position: relative;*/
+/*  padding-left: 50px;*/
+/*  text-align: left;*/
+/*}*/
+
+/*.section-title img {*/
+/*  position: absolute;*/
+/*  left: 0;*/
+/*  top: 50%;*/
+/*  transform: translateY(-50%);*/
+/*  height: 30px;*/
+/*}*/
